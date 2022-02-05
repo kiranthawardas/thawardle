@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thawardle/static/css/main.b39d53ed.css",
+    "main.js": "/thawardle/static/js/main.e366408b.js",
+    "static/js/787.eae69e81.chunk.js": "/thawardle/static/js/787.eae69e81.chunk.js",
+    "index.html": "/thawardle/index.html",
+    "main.b39d53ed.css.map": "/thawardle/static/css/main.b39d53ed.css.map",
+    "main.e366408b.js.map": "/thawardle/static/js/main.e366408b.js.map",
+    "787.eae69e81.chunk.js.map": "/thawardle/static/js/787.eae69e81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39d53ed.css",
+    "static/js/main.e366408b.js"
+  ]
+}
